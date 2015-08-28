@@ -335,9 +335,9 @@ input {
 	margin-right: 30px;
 	font-size: 80px;
 }
-#f i .hover{
-	color:#333;
-	
+
+#f :hover{
+color:#434343;
 }
 
 #f a {
