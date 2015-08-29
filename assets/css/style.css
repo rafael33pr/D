@@ -335,7 +335,9 @@ input {
 	margin-right: 30px;
 	font-size: 80px;
 }
-
+#sep > div > div > div {
+	margin-top:300px;
+}
 #f :hover{
 color:#434343;
 }
