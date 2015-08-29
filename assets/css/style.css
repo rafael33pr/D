@@ -343,6 +343,12 @@ color:#434343;
 #f a {
 	color: white;
 }
+#f h1 {
+	font-family:Impact;
+	font-size:50px;
+	color:#fff;
+	
+	}
 
 /* HEADER 2 - PORTFOLIO SECTION */
 #h2 {
