@@ -1,7 +1,7 @@
 /*
  * Author: Carlos Alvarez
  * URL: http://alvarez.is
- *
+ *Mod:Rafael Santiago Toro
  * Theme Name: Basic
  * URL: http://blacktie.co
  * Version: 1.0
@@ -322,6 +322,7 @@ input {
 #sep h3 {
 	font-weight: 300;
 	letter-spacing: 2px;
+	margin-top:300px;
 }
 
 /* FOOTER */
